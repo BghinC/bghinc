@@ -1,17 +1,18 @@
-# Hi, I'm Clément 👋
+# Hi there 👋
 
-<img src="https://github.com/BghinC/bghinc/blob/master/img/programming.svg" height="300" width="563.7">
+I'm a **software engineer** and **web lover** born in **France** 🇫🇷. I've created several web applications using Vue (and **Nuxt** 💚), mobile applications using **Flutter** 💙. All of them relying on homemade **backends** using different frameworks.
 
-I'm a __software engineer__ and __web lover__ based in __France__. [Nuxt](https://nuxtjs.org/), [Next.js](https://nextjs.org/) and [Flutter](https://flutter.dev/) are part of my daily life. Also playing around with [NestJS](https://nestjs.com/).
+I'm currently working from Mauritius 🇲🇺, contact me if you wanna meet!
 
 ## About me 👀
 
-- 💼 Currently working at [The-Ring.io](https://the-ring.io)
-- 🚀 Probably creating a new app right now
+- 💼 Currently working at [Dailyn](https://dailyn.app)
+- 🎾 My current side project is [Padeligo](https://padeligo.com)
+- 🚀 Working on other things in parallel
 
 ## Find me around the web 🌍
 
 - 🐦 Follow me on [Twitter](https://twitter.com/bghinc)
 - 💻 Check my [Website](https://www.bghinc.fr/)
 - 🤝 Connect on [LinkedIn](https://www.linkedin.com/in/clementbeghin/)
-- 📫 Contact me by [Email](mailto:cbeghin@bghinc.fr)
+- 📫 Contact me by [Email](mailto:clement.beghin.pro@gmail.com)
